@@ -1,12 +1,12 @@
 # Kenya 2010 Constitution
 
-This repo has a [machine-readable version][0] of the Kenya
-Constitution 2010 articles in the JSON format.
+This repo has a [machine-readable version][0] of the Kenya 2010
+Constitution's articles in the JSON format.
 
 [0]: json/ConstitutionKenya2010.json
 
 The text was extracted from the pdf version of the 2010 constitution
-found at the [Kenya Law website][1].
+found at the [Kenya Law website][1], last revised in 2022.
 
 [1]: https://kenyalaw.org/kl/fileadmin/pdfdownloads/TheConstitutionOfKenya.pdf
 
@@ -21,7 +21,7 @@ documented in an accompanying [notebook][3].
 
 ## Data Dictionary
 
-| Field Name | Description                                                                                                                    |
+| Field      | Description                                                                                                                    |
 |------------|--------------------------------------------------------------------------------------------------------------------------------|
 | number     | the article's number                                                                                                           |
 | title      | the article's title                                                                                                            |
